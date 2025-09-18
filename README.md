@@ -42,6 +42,9 @@ A simple **console-based Bank Management System** implemented in **C++**, simula
 ---
 
 ## 📷 Sample Output
-<img width="1646" height="468" alt="img1" src="https://github.com/Bank_Management_System/output/img1.png" />
+<img width="1646" height="468" alt="img1" src="https://github.com/Pratiksha1244/Bank_Management_System/blob/main/output/img1.png" />
+<img width="1646" height="468" alt="img1" src="https://github.com/Pratiksha1244/Bank_Management_System/blob/main/output/img2.png" />
+<img width="1646" height="468" alt="img1" src="https://github.com/Pratiksha1244/Bank_Management_System/blob/main/output/img3.png" />
+<img width="1646" height="468" alt="img1" src="https://github.com/Pratiksha1244/Bank_Management_System/blob/main/output/img4.png" />
 
 
